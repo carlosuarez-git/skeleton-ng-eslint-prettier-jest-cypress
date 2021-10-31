@@ -1,5 +1,9 @@
 {
+  "tabWidth": 2,
+  "useTabs": false,
   "singleQuote": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "jsxBracketSameLine": true,
   "arrow-body-style": "off",
   "prefer-arrow-callback": "off",
   "printWidth": 120,
